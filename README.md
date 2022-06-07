@@ -2,7 +2,7 @@
 
 ### Let's connect!
 
-<p align="center">
+<p>
   <a href="https://www.linkedin.com/in/rezi-ferdiansyah-b25327207/">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
