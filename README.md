@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<center><img src="./peek.gif"/></center>
+<center><img src="./trex.gif"/></center>
 <!--
 **Rezi Ferdiansyah/Rezi Ferdiansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
