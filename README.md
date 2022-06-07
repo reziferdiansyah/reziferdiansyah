@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋 , I'm Rezi Ferdiansyah!
 
 <center><img src="./trex.gif"/></center>
 <!--
