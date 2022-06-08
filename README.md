@@ -1,4 +1,6 @@
-# Hi there 👋 , I'm Rezi Ferdiansyah!
+### Hi there 👋
+
+### I'm Rezi Ferdiansyah
 
 ### Let's connect!
 
@@ -6,10 +8,10 @@
   <a href="https://www.linkedin.com/in/rezi-ferdiansyah-b25327207/">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/linkedin.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.linkedin.com/in/rezi-ferdiansyah-b25327207/">
+  <a href="https://t.me/reziferdiansyah">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/telegram.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
-  <a href="https://www.linkedin.com/in/rezi-ferdiansyah-b25327207/">
+  <a href="https://api.whatsapp.com/send?phone=6283820991866">
     <img src="https://github.com/Quadrified/Quadrified/blob/master/assets/svg/social/whatsapp.svg" alt="npm" style="vertical-align:top; margin:4px">
   </a>
 </p>
