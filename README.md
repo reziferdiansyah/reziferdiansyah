@@ -25,6 +25,7 @@
   <img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
   <img alt="" height="60px" width="60px"  src="https://camo.githubusercontent.com/ff5301ef7472dbdf522b776167a8af8c326299fe8175e53f6b052bbcc04533e3/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" />
   <img alt="" height="60px" width="60px"  src="https://camo.githubusercontent.com/5c2595c2fcc9ef7ffa97d14f868547d945d5cee65045377c7c34611b5a67c139/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/figma-images.png" />
 </div>
 
 
