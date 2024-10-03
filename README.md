@@ -28,7 +28,7 @@
   <img alt="Figma" height="60px" width="60px"  src="assets/tech/Figma-Logo.png" />
   <img alt="GitHub" height="60px" width="60px"  src="assets/tech/GitHub-Logo.png" />
   <img alt="Jira" height="60px" width="60px"  src="assets/tech/Jira-Logo.png" />
-  <img alt="Confluence" height="60px" width="60px"  src="assets/tech/Confluence.png" />
+  <img alt="Confluence" height="60px" width="60px"  src="assets/tech/Confluence-Logo.png" />
   <img alt="Slack" height="60px" width="60px"  src="assets/tech/Slack-Logo.png" />
 </div>
 
