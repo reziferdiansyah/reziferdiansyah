@@ -1,11 +1,9 @@
 
 ### Hi👋 I'm Rezi Ferdiansyah A Front end Developer
-<br>
 <div style="display:flex">
   <a href="https://portofolio-rezi-ferdiansyah.vercel.app/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.linkedin.com/in/rezi-ferdiansyah-b25327207"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
 </div>
-<br>
 
 ### Frontend Skills
 <div style="display:flex">
@@ -20,7 +18,6 @@
   <img alt="" height="60px" width="60px"   src="assets/tech/frontend/HTML.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/frontend/CSS.svg"/>
 </div>
-<br>
 
 ### Backend Skills
 <div style="display:flex">
@@ -30,7 +27,6 @@
   <img alt="" height="60px" width="60px"  src="assets/tech/backend/MySQL.svg" />
   <img alt="" height="60px" width="60px"  src="assets/tech/backend/PostgreSQL.svg" />
 </div>
-
 
 ### Tools & Other Skills
 <div style="display:flex">
