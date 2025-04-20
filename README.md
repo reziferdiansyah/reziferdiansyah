@@ -34,11 +34,15 @@
 
 ### Tools & Other Skills
 <div style="display:flex">
-  <img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
-  <img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
-  <img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
-  <img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
-  <img alt="" height="60px" width="60px"  src="assets/tech/VisualStudio.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/Git.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/Github.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/Bitbucket.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/VisualStudio.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/Postman.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/Confluence.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/Jira.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/Slack.svg" />
+  <img alt="" height="60px" width="60px"  src="assets/tech/tools/Skype.svg" />
 </div>
 
 
