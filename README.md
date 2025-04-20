@@ -7,7 +7,7 @@
 </div>
 <br>
 
-### Frontend Developer
+### Frontend Skills
 <div style="display:flex">
   <img alt="" height="60px" width="60px"   src="assets/tech/frontend/JavaScript.svg"/>
   <img alt="" height="60px" width="60px"   src="assets/tech/frontend/TypeScript.svg"/>
@@ -22,7 +22,7 @@
 </div>
 <br>
 
-### Backend Developer
+### Backend Skills
 <div style="display:flex">
   <img alt="" height="60px" width="60px"  src="assets/tech/backend/PHP.svg" />
   <img alt="" height="60px" width="60px"  src="assets/tech/backend/Laravel.svg" />
