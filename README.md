@@ -1,7 +1,7 @@
 
 ### Hi👋 I'm Rezi Ferdiansyah
 <div style="display:flex">
-  <a href="https://portofolio-rezi-ferdiansyah.vercel.app/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
+  <a href="https://rezi.inovasiweb.com/"> <img src="assets/WEBSITE.svg" alt="" height="35px" width="auto"></a>
   <a href="https://www.linkedin.com/in/rezi-ferdiansyah-b25327207"> <img src="assets/LINKEDIN.svg" alt="" height="35px" width="auto"></a>
 </div>
 
